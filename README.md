@@ -70,11 +70,8 @@ DunkVerse leverages the cutting-edge capabilities of **Aptos Blockchain** to pro
 
 ## Deployment Details for Aptos 📝
 
-- **Contract Addresses**:
-  - **DunkVerse Token (FTO)**: [Coming soon on Aptos Explorer]
-  - **Betting Pool**: [Coming soon on Aptos Explorer]
-
----
+- **Contract Addresses**: 
+--- https://explorer.aptoslabs.com/account/0x53ebd2be721663376dc5a39997d54f160bfb4195da6db5edb97fab2927e90c37/modules/run/betting_pool/assign_nft_to_contest?network=testnet
 
 ## How to Start on Aptos 🚀
 
